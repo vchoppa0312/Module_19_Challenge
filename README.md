@@ -5,10 +5,10 @@
 ### Transaction Details
 
 *Before Transaction *
-![Balance Before Transaction](Images/before_txn)
+![Balance Before Transaction](Images/before_txn.png)
 
 *After Transaction *
-![Balance After Transaction](Images/after_txn)
+![Balance After Transaction](Images/after_txn.png)
 
 *Transaction *
-![Transaction](Images/txn)
+![Transaction](Images/txn.png)
